@@ -6,6 +6,8 @@
 - [11:30 - 13:00] [Wprowadzenie do NLP i transfer learningu](https://docs.google.com/presentation/d/1Lzt4_11akHG6vWqLBvgcprth-HC9vHTL9WER86trOxQ/edit)
 - [13:00 - 13:30] Przerwa
 - [13:30 - 15:30] Warsztaty
+  - [Wprowadzenie do Hugging Face](https://www.kaggle.com/lomero/intro-to-transformers-20231025)
+  - [Wprowadzenie to trenowania modeli](https://www.kaggle.com/lomero/fine-tuning-transformers-20231025)
 
 ## Dzień 2: 26.10.2023
 - [9:00 - 11:00] [Large Language Models](https://docs.google.com/presentation/d/1np3yOzegG2B8MyT3dIwR_C4V9tsxU-KTOgjfU9gK49E/edit)
