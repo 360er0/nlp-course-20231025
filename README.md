@@ -15,5 +15,3 @@
 - [11:30 - 13:00] [Budowanie zbiorów danych i ewaluacja](https://docs.google.com/presentation/d/10HdYUr4fj9KiYjkbEKsT4O6eZqy0biblHkX14YNk910/edit)
 - [13:00 - 13:30] Przerwa
 - [13:30 - 15:30] Warsztaty
-  - [Trenowanie modeli praktyce](https://www.kaggle.com/lomero/fine-tuning-transformers-part-2-20231026)
-  - []()
