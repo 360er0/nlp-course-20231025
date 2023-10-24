@@ -1,4 +1,4 @@
-# NLP course for trans.eu
+# NLP course
 
 ## Dzień 1: 25.10.2023
 - [9:00 - 11:00] [Wprowadzenie do sieci neuronowych](https://docs.google.com/presentation/d/1ecU2Gjy1C_ckmJQuOJ-ma5NzM6GcgMQtohfj36FQLts/edit)
@@ -15,3 +15,5 @@
 - [11:30 - 13:00] [Budowanie zbiorów danych i ewaluacja](https://docs.google.com/presentation/d/10HdYUr4fj9KiYjkbEKsT4O6eZqy0biblHkX14YNk910/edit)
 - [13:00 - 13:30] Przerwa
 - [13:30 - 15:30] Warsztaty
+  - [Trenowanie modelii praktyce](https://www.kaggle.com/lomero/fine-tuning-transformers-part-2-20231026)
+  - []()
